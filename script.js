@@ -1,0 +1,1 @@
+// Inline behavior for demo cards (no external deps)
